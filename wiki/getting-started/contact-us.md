@@ -8,6 +8,7 @@ NEAR is primarily community centered, so the best way to contact somebody with k
 
 - [Discord](https://discord.com/invite/UY9Xf2k)
 - [Telegram](https://t.me/cryptonear)
+- [Reddit](https://www.reddit.com/r/nearprotocol/)
 - [NEAR Forum](https://gov.near.org/)
 
 Alternatively, if you need to contact somebody at NEAR Foundation and the community links above weren't helpful you drop us an [email](mailto:hello@near.foundation).
